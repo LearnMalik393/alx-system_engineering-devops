@@ -1,1 +1,1 @@
-echo My firts readme file in shell variables expansions
+My first readme file in shell variables expansions
